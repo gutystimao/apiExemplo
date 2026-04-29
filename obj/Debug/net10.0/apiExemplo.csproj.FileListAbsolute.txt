@@ -1,0 +1,203 @@
+C:\www\tests\apiExemplo\bin\Debug\net10.0\appsettings.Development.json
+C:\www\tests\apiExemplo\bin\Debug\net10.0\appsettings.json
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.staticwebassets.endpoints.json
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.exe
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.deps.json
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.runtimeconfig.json
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\apiExemplo.pdb
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.AssemblyReference.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfoInputs.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfo.cs
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.CoreCompileInputs.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\scopedcss\bundle\apiExemplo.styles.css
+C:\www\tests\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\staticwebassets.development.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\www\tests\apiExemplo\obj\Debug\net10.0\swae.build.ex.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.Up2Date
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.dll
+C:\www\tests\apiExemplo\obj\Debug\net10.0\refint\apiExemplo.dll
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.pdb
+C:\www\tests\apiExemplo\obj\Debug\net10.0\apiExemplo.genruntimeconfig.cache
+C:\www\tests\apiExemplo\obj\Debug\net10.0\ref\apiExemplo.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\DnsClient.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\SharpCompress.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Snappier.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\www\tests\apiExemplo\bin\Debug\net10.0\ZstdSharp.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\appsettings.Development.json
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\appsettings.json
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.staticwebassets.endpoints.json
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.exe
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.deps.json
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.runtimeconfig.json
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.pdb
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\DnsClient.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\SharpCompress.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Snappier.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\ZstdSharp.dll
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.AssemblyReference.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfoInputs.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfo.cs
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.CoreCompileInputs.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\scopedcss\bundle\apiExemplo.styles.css
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.development.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\swae.build.ex.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.Up2Date
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.dll
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\refint\apiExemplo.dll
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.pdb
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.genruntimeconfig.cache
+C:\www\apiExemplo\apiExemplo\obj\Debug\net10.0\ref\apiExemplo.dll
+C:\www\apiExemplo\apiExemplo\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\appsettings.Development.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\appsettings.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.staticwebassets.endpoints.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.exe
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.deps.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.runtimeconfig.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\apiExemplo.pdb
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\DnsClient.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\SharpCompress.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Snappier.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\bin\Debug\net10.0\ZstdSharp.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.AssemblyReference.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfoInputs.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfo.cs
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.CoreCompileInputs.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\scopedcss\bundle\apiExemplo.styles.css
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.development.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\swae.build.ex.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.Up2Date
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\refint\apiExemplo.dll
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.pdb
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\apiExemplo.genruntimeconfig.cache
+C:\Gestão Dinamica - Luis\www\testes\apiExemplo\apiExemplo\obj\Debug\net10.0\ref\apiExemplo.dll
+C:\www\apiExemplo\bin\Debug\net10.0\appsettings.Development.json
+C:\www\apiExemplo\bin\Debug\net10.0\appsettings.json
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.staticwebassets.endpoints.json
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.exe
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.deps.json
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.runtimeconfig.json
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.dll
+C:\www\apiExemplo\bin\Debug\net10.0\apiExemplo.pdb
+C:\www\apiExemplo\bin\Debug\net10.0\DnsClient.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\www\apiExemplo\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\www\apiExemplo\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\www\apiExemplo\bin\Debug\net10.0\SharpCompress.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Snappier.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\www\apiExemplo\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\www\apiExemplo\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\www\apiExemplo\bin\Debug\net10.0\ZstdSharp.dll
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.AssemblyReference.cache
+C:\www\apiExemplo\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfoInputs.cache
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.AssemblyInfo.cs
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.CoreCompileInputs.cache
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cs
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.MvcApplicationPartsAssemblyInfo.cache
+C:\www\apiExemplo\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\www\apiExemplo\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\www\apiExemplo\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\www\apiExemplo\obj\Debug\net10.0\scopedcss\bundle\apiExemplo.styles.css
+C:\www\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json
+C:\www\apiExemplo\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\www\apiExemplo\obj\Debug\net10.0\staticwebassets.development.json
+C:\www\apiExemplo\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\www\apiExemplo\obj\Debug\net10.0\swae.build.ex.cache
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.csproj.Up2Date
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.dll
+C:\www\apiExemplo\obj\Debug\net10.0\refint\apiExemplo.dll
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.pdb
+C:\www\apiExemplo\obj\Debug\net10.0\apiExemplo.genruntimeconfig.cache
+C:\www\apiExemplo\obj\Debug\net10.0\ref\apiExemplo.dll
