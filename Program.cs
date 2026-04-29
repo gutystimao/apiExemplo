@@ -36,3 +36,4 @@ app.UseSmartMiddlewares(builder);
 app.UseResponseCaching();
 
 app.Run();
+// exemplo de texto
